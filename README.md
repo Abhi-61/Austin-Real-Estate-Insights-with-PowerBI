@@ -1,5 +1,4 @@
-# Austin Real Estate Insights with PowerBI 
-# (In Progress..., Expected Completion before November 01, 2024)
+# Austin, Texas Real Estate Insights with PowerBI
 
 # Introduction
 Austin, Texas, has a bustling real estate market, with houses ranging from a few hundred thousand dollars to millions of dollars.
@@ -20,6 +19,7 @@ Each page deals with a certain aspect of the dataset that is meant to cater to a
 At the same time, a prospective buyer with more money to spare might be interested in amenities like a pool or a waterfront view, or properties advertised with a more private living space.
 
 All pages are interactive and the requested information can be retrieved by changing the sliders or clicking on the visualized data.
+<img width="1550" alt="image" src="https://github.com/user-attachments/assets/47f4244c-44db-434e-b07a-c6c839398440">
 
 # How to use:
 Simply download the Final Report.pbix and sift through the different pages in the report.
